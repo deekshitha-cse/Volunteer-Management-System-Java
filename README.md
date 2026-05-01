@@ -41,4 +41,9 @@ A console-based Volunteer Management System built using Java and Object-Oriented
 ---
 
 ## 📂 Project Structure
-
+- Volunteer.java → Model class representing a volunteer
+- VolunteerManager.java → Handles all operations (CRUD + search)
+- Main.java → Entry point for testing the system
+Volunteer.java → Model class representing a volunteer
+VolunteerManager.java → Handles all operations (CRUD + search)
+Main.java → Entry point for testing the system
